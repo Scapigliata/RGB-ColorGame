@@ -16,6 +16,10 @@ body {
     -moz-transition: background 0.6s; 
 }
 
+.square:hover {
+    box-shadow: 0 0 1em 0.5em white;    
+}
+
 #container {
     margin: 20px auto;
     max-width: 600px;
